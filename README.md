@@ -1,16 +1,12 @@
 # Smart Home - Flutter UI
 
-A new Flutter application.
+Smart home application UI using flutter.
 
-## Getting Started
+# ScreenShots
+![1](https://user-images.githubusercontent.com/69412970/104686744-a643dc80-571f-11eb-808d-bd250f1320e6.jpg)
+![2](https://user-images.githubusercontent.com/69412970/104686750-a93ecd00-571f-11eb-800f-30915b182def.jpg)
 
-This project is a starting point for a Flutter application.
+# Playstore Link:
 
-A few resources to get you started if this is your first Flutter project:
+https://play.google.com/store/apps/developer?id=Noori+Softtech
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
