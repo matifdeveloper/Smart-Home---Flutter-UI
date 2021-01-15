@@ -1,4 +1,4 @@
-# smart_home
+# Smart Home - Flutter UI
 
 A new Flutter application.
 
